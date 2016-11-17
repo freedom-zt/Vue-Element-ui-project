@@ -27,15 +27,6 @@ npm run e2e
 npm test
 ```
 
-For detailed explanation on how things work, checkout the
-[project guide](http://vuejs-templates.github.io/webpack/).   
-
-More docs:  
-[doc for vue 2](http://vuejs.org/guide/)  
-[docs for vue-router 2](http://router.vuejs.org/en/index.html)  
-[docs for element-ui](http://element.eleme.io)  
-[docs for vuex](http://vuex.vuejs.org/en/index.html)
-
 ## Project Structure
 
 ```
