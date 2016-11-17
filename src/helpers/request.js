@@ -1,6 +1,6 @@
-import request from 'superagent';
-import Promise from 'bluebird';
+import request from 'superagent'
+import Promise from 'bluebird'
 
-Promise.promisifyAll(request);
+Promise.promisifyAll(request)
 
-export default request;
+export default request

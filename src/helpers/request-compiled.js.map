@@ -1,0 +1,1 @@
+{"version":3,"sources":["request.js"],"names":[],"mappings":";;;;;;AAAA;;;;AACA;;;;;;AAEA,mBAAQ,YAAR","file":"request-compiled.js","sourcesContent":["import request from 'superagent'\nimport Promise from 'bluebird'\n\nPromise.promisifyAll(request)\n\nexport default request\n"]}

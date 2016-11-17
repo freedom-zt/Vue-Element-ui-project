@@ -1,8 +1,6 @@
-# vue-element-quick-start
+# My first vue project
 
-> A Vue.js and Element-ui project, powered by Vue2.0 and Element-ui.
-
-This is a vue2.0 quick start project, you can clone it and start your project quickly. It includes Element-ui, which is a full features UI components library, and Vuex, a state management tools. If any problems, you can commit your issues on the github.
+> Vue.js和Element-ui项目,由Vue2.0和Element-ui。
 
 ## Build Setup
 

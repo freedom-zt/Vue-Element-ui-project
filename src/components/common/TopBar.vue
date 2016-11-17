@@ -32,15 +32,15 @@
 
 <script type="text/javascript">
   export default {
-    data() {
+    data () {
       return {
-        avatar_url: 'http://img0.imgtn.bdimg.com/it/u=1787407765,2524017231&fm=11&gp=0.jpg',
-      };
+        avatar_url: 'http://img0.imgtn.bdimg.com/it/u=1787407765,2524017231&fm=11&gp=0.jpg'
+      }
     },
     methods: {
-      signOut() {
-        console.log('退出登录');
-      },
-    },
-  };
+      signOut () {
+        console.log('退出登录')
+      }
+    }
+  }
 </script>
